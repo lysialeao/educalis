@@ -2,7 +2,7 @@
 
 Educalis é uma plataforma tipo ambiente de ensino virtual (AVA) onde os alunos podem logar e ver as disciplinas que estão cursando e as matérias que estão fazendo no momento.
 
-Nessa primeira versão, a plataforma contém uma index, tela de cadastro, tela de login, e os menus para o dashboard.
+Nessa primeira versão, a plataforma contém uma index, tela de cadastro, tela de login, tela para recuperação de senha e os menus para o dashboard.
 
 Para uma futura versão, será acrescentado os conteúdos do dashboard, para as áreas de disciplinas, boletim e calendário, além da área de professores. Como segue no design disponível pelo Figma(https://www.figma.com/file/FF85tsy3lhUJW9cKe5NDXQ/Educalis?node-id=0%3A1) 
 
